@@ -5,7 +5,7 @@ This project aims at updating the website https://csci3250-2019.github.io and pr
 
 
 # Contributors
-1. Lin Chuanfeng  // include your directory, not your name...
-2. {% include_relative _stu/1155110177.md %}
+1. Lin Chuanfeng  // include your md file, not your name...
+2. 
 3.
 4.
