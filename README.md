@@ -1,3 +1,13 @@
-Sorry our group is yet to start working. Have patience...
+#Introduction
+This project aims at  updating the website https://csci3250-2019.github.io and promoting this repo
 
-Please refer to tasks.md
+#Code
+
+
+
+
+#Contributors
+1.Lin Chuanfeng
+2.
+3.
+4.
