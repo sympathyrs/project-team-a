@@ -4,6 +4,8 @@ This project aims at updating the website https://csci3250-2019.github.io/projec
 ## Code
 {% include_relative code.c %}
 
+[![Build Status](https://travis-ci.org/csci3250-2019/csci3250-p-team-a.svg?branch=master)](https://travis-ci.org/csci3250-2019/csci3250-p-team-a)
+
 ## Contributors
 1. {% include_relative _stu/1155110077.md %}
 2. {% include_relative _stu/1155110177.md %}
