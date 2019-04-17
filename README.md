@@ -1,19 +1,15 @@
 ## Introduction
-This project aims at updating the website https://csci3250-2019.github.io/project-team-a/ and promoting this repo
+This project aims at updating the website https://csci3250-2019.github.io/project-team-a/ and promoting this repo.
 
 ## Code
-#include <stdio.h>
-int main()
-{
-   // printf() displays the string inside quotation
-   printf("Hello, World!");
-   return 0;
-}
+{% include_relative code.c %}
+
 [![Build Status](https://travis-ci.org/csci3250-2019/csci3250-p-team-a.svg?branch=master)](https://travis-ci.org/csci3250-2019/csci3250-p-team-a)
+
 ## Contributors
-1. Lin Chuanfeng  // include your md file, not your name?
-2. [LeeTszYan](https://github.com/csci3250-2019/project-team-a/blob/master/_stu/1155110177.md) {% include_relative _stu/1155110177.md %}
-3.
-4.{% include_relative _stu/1155108254.md %}
+1. {% include_relative _stu/1155110077.md %}
+2. {% include_relative _stu/1155110177.md %}
+3. {% include_relative _stu/1155107790.md %}
+4. {% include_relative _stu/1155108254.md %}
 
 {{ site.time }}
