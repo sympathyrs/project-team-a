@@ -1,5 +1,5 @@
 ## Introduction
-This project aims at updating the website https://csci3250-2019.github.io/project-team-a/ and promoting this repo
+This project aims at updating the website https://csci3250-2019.github.io/project-team-a/ and promoting this repo.
 
 ## Code 
 ```c
