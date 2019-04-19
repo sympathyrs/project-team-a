@@ -28,4 +28,4 @@ This project aims at updating the website [https://csci3250-2019.github.io/proje
 * {% include_relative _stu/1155108603.md %}
 * {% include_relative _stu/1155108766.md %}
 
-{{ site.time }}
+Last updated: {{ site.time }}
