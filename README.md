@@ -1,5 +1,5 @@
 ## Introduction
-This project aims at updating the website https://csci3250-2019.github.io/project-team-a/ and promoting this repository.
+This project aims at updating the website [https://csci3250-2019.github.io/project-team-a/](https://csci3250-2019.github.io/project-team-a/ 'Team-A') and promoting this repository.
 
 **Progresses**
 1. Set up the file readme.md including 3 headings: Introduction, Code, and Contributors.
