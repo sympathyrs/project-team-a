@@ -2,6 +2,7 @@
 This project aims at updating the website https://csci3250-2019.github.io/project-team-a/ and promoting this repository.
 
 Progresses
+---
 1. Set up the file readme.md including 3 headings: Introduction, Code, and Contributors.
 2. Write a short summary under Introduction.
 3. Under Contributors, use include_relative to include every contributors' md file under the folder _stu.
