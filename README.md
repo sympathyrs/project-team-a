@@ -12,5 +12,6 @@ This project aims at updating the website https://csci3250-2019.github.io/projec
 2. {% include_relative _stu/1155110177.md %}
 3. {% include_relative _stu/1155107790.md %}
 4. {% include_relative _stu/1155108254.md %}
+5. {% include_relative _stu/1155107799.md %}
 
 {{ site.time }}
