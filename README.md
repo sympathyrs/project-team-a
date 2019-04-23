@@ -1,5 +1,5 @@
 ## Introduction
-This project aims at updating the website [https://csci3250-2019.github.io/project-team-a/](https://csci3250-2019.github.io/project-team-a/ 'Team-A') and promoting this repository.
+This project aims at updating the website [https://csci3250-2019.github.io/project-team-a/](https://csci3250-2019.github.io/project-team-a/ 'Team-A') and promoting this repository. We are to complete individual and group tasks.
 
 **Progresses**
 1. Set up the file readme.md including 3 headings: Introduction, Code, and Contributors.
@@ -31,5 +31,6 @@ This project aims at updating the website [https://csci3250-2019.github.io/proje
 * {% include_relative _stu/1155110767.md %}
 * {% include_relative _stu/1155110776.md %}
 * {% include_relative _stu/1155109718.md %}
+* {% include_relative _stu/1155101018.md %}
 
 Last updated: {{ site.time }}
